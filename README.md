@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://bsky.app/profile/kopigi.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/OzzyCzech/bluesky-logo/0fdf7f78ecbc22a57fd1709e6ec15915ff2f379a/dist/bluesky-icon.blue.svg" alt="mplessis" height="30" width="40" /></a>
 <a href="https://twitter.com/mplessis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mplessis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcplessis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcplessis" height="30" width="40" /></a>
 </p>
